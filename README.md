@@ -31,7 +31,7 @@ I’m open to collaboration on:
 ---
 
 ## 📫 How to reach me
-- Email: **ys.chun@kt.com**  
+- Email: **deep1003@snu.ac.kr**  
 - ORCID: [0000-0002-6877-6230](https://orcid.org/0000-0002-6877-6230)  
 - Google Scholar: [ArLnfX4AAAAJ](https://scholar.google.com/citations?user=ArLnfX4AAAAJ&hl=en)  
 - LinkedIn: [Youngsam Chun](https://www.linkedin.com/in/youngsam-chun)  
