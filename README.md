@@ -26,10 +26,15 @@ The visualization supports reference-space exploration, Korea activation, and re
   A recent collaborative paper on moral alignment has reached the camera-ready stage for an ICML 2026 Workshop. The work connects pluralistic human values, responsible AI, and value-alignment methods for generative AI systems.  
   Announcement: [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7467808732031127553/)
 
+- **KidnapRAG: A Black-Box Attack for Hijacking Reasoning in Agentic Retrieval-Augmented Generation Systems**  
+  ACL ARR 2026 May Submission, preferred venue: EMNLP. This collaboration with Prof. Buru Chang's research group at Korea University studies black-box poisoning attacks against Agentic RAG systems. The paper proposes KidnapRAG, a sequential attack that uses three role-specific poisoned documents - Bait, Chain-Link, and Mal-Ins - to attract initial retrieval, redirect query reformulation, and inject attacker-controlled evidence into the reasoning chain.  
+  Keywords: RAG attack, Agentic RAG, AI security, black-box poisoning, retrieval-augmented generation.
+
 ## Research Areas
 
 - Responsible AI, trustworthy AI, AI safety, and AI governance
 - Generative AI, large language models, RAG systems, and value alignment
+- Agentic RAG security, black-box attacks, and retrieval poisoning
 - Patent analytics, scientometrics, and AI innovation measurement
 - Economic complexity, technological specialization, and national competitiveness
 - Network science, knowledge-space modeling, and semantic embedding methods
@@ -39,6 +44,7 @@ The visualization supports reference-space exploration, Korea activation, and re
 
 - **Responsible AI governance and value alignment**: governance frameworks for high-risk AI domains and culturally contextualized AI value alignment.
 - **Moral alignment for generative AI**: developing methods that connect pluralistic human values, multi-agent evaluation, and responsible deployment of generative AI systems.
+- **Agentic RAG security**: studying black-box poisoning attacks and defense implications for retrieval-augmented generation systems, including the KidnapRAG project under ACL ARR review.
 - **Generative AI and LLM patent analytics**: studying dominant design emergence, technological distance, and cross-national competition using Sentence-BERT, PatentSBERTa, clustering, and ensemble modeling.
 - **RAG attack and defense mechanisms**: developing benchmark datasets, defensive methods, and tooling for retrieval-augmented generation systems.
 - **AI innovation and national competitiveness**: analyzing AI specialization, industrial co-evolution, and policy implications using patents, scientific papers, and economic complexity indicators.
