@@ -58,8 +58,6 @@ The visualization supports reference-space exploration, Korea activation, and re
 - **M.Sc.**, Technology Management, Economics, and Policy, Seoul National University, 2019  
   Thesis: *Heterophily Effects on Industrial Innovation Leadership Changes in Autonomous Vehicle Industry*
 
-- **B.Sc.**, Telecommunication and Information Engineering, Korea Aerospace University
-
 ## Selected Publications
 
 - Chun, Y., Hur, J., & Hwang, J. (2024). **AI Technology Specialization and National Competitiveness**. *PLOS ONE*.
