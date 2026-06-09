@@ -19,6 +19,7 @@ The visualization supports reference-space exploration, Korea activation, and re
 
 - Live site: [AI Topic Space](https://deep1003.github.io/AI_Topic_Space.github.io/)
 - Repository: [deep1003/AI_Topic_Space.github.io](https://github.com/deep1003/AI_Topic_Space.github.io)
+- HuggingFace: https://huggingface.co/datasets/deep1003/ai-topic-space-korea
 
 ## Recent Research Highlight
 
