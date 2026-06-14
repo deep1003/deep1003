@@ -23,14 +23,14 @@ The visualization supports reference-space exploration, Korea activation, and re
 
 ## Recent Research Highlight
 
-- **Moral Orientation and Calibration: ICML 2026 Pluralistic Alignment Workshop**  
+- **[Moral Orientation and Calibration: ICML 2026 Pluralistic Alignment Workshop](https://github.com/deep1003/moral-orientation-calibration/blob/main/paper/main.pdf)**  
   Camera-ready workshop paper on Judge LLM evaluation, pluralistic moral alignment, and diagnostic decomposition of human-LLM disagreement into moral orientation and moral calibration.  
   Reproducibility release: [deep1003/moral-orientation-calibration](https://github.com/deep1003/moral-orientation-calibration)  
   Announcement: [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7467808732031127553/)
 
 - **KidnapRAG: A Black-Box Attack for Hijacking Reasoning in Agentic Retrieval-Augmented Generation Systems**  
   ACL ARR 2026 May Submission, preferred venue: EMNLP. This collaboration with Prof. Buru Chang's research group at Korea University studies black-box poisoning attacks against Agentic RAG systems. The paper proposes KidnapRAG, a sequential attack that uses three role-specific poisoned documents - Bait, Chain-Link, and Mal-Ins - to attract initial retrieval, redirect query reformulation, and inject attacker-controlled evidence into the reasoning chain.  
-  Keywords: RAG attack, Agentic RAG, AI security, black-box poisoning, retrieval-augmented generation.
+  Keywords: RAG attack, Agentic RAG, AI security, black-box poisoning, retrieval-augmented generation. Public manuscript link pending.
 
 ## Research Areas
 
@@ -62,9 +62,9 @@ The visualization supports reference-space exploration, Korea activation, and re
 
 ## Selected Publications
 
-- Chun, Y., Hur, J., & Hwang, J. (2024). **AI Technology Specialization and National Competitiveness**. *PLOS ONE*.
-- Chun, Y., & Hwang, J. (2024). **The Nexus of Artificial Intelligence and Green Innovation: A Cross-Density Analysis at the Country Level**. *Journal of the Knowledge Economy*.
-- Hur, J., Chun, Y., Hwang, J., & Kim, K. (2024). **The moderating role of design innovation in the relationship between technology complexity and firm performance**. *Technology Analysis & Strategic Management*.
+- Chun, Y., Hur, J., & Hwang, J. (2024). **[AI Technology Specialization and National Competitiveness](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301091)**. *PLOS ONE*.
+- Chun, Y., & Hwang, J. (2024). **[The Nexus of Artificial Intelligence and Green Innovation: A Cross-Density Analysis at the Country Level](https://link.springer.com/article/10.1007/s13132-024-02076-8)**. *Journal of the Knowledge Economy*.
+- Hur, J., Chun, Y., Hwang, J., & Kim, K. (2024). **[The moderating role of design innovation in the relationship between technology complexity and firm performance](https://www.tandfonline.com/doi/full/10.1080/09537325.2024.2336555)**. *Technology Analysis & Strategic Management*.
 
 ## Patent
 
