@@ -23,8 +23,9 @@ The visualization supports reference-space exploration, Korea activation, and re
 
 ## Recent Research Highlight
 
-- **ICML 2026 Workshop camera-ready paper on moral alignment**  
-  A recent collaborative paper on moral alignment has reached the camera-ready stage for an ICML 2026 Workshop. The work connects pluralistic human values, responsible AI, and value-alignment methods for generative AI systems.  
+- **Moral Orientation and Calibration: ICML 2026 Pluralistic Alignment Workshop**  
+  Camera-ready workshop paper on Judge LLM evaluation, pluralistic moral alignment, and diagnostic decomposition of human-LLM disagreement into moral orientation and moral calibration.  
+  Reproducibility release: [deep1003/moral-orientation-calibration](https://github.com/deep1003/moral-orientation-calibration)  
   Announcement: [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7467808732031127553/)
 
 - **KidnapRAG: A Black-Box Attack for Hijacking Reasoning in Agentic Retrieval-Augmented Generation Systems**  
