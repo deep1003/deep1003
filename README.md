@@ -101,6 +101,7 @@ I teach business analytics and applied AI methods for graduate students, coverin
 
 ## Awards and Service
 
+- Travel Grant Winner, The Responsible AI Forum (TRAIF), Technical University of Munich, 2026
 - Excellent Patent Award, KT Corporation R&D Center, Invention Competition 2025
 - Best PhD Paper Award, Korea Society for Innovation, Management, and Economics, 2024
 - Reviewer for *Humanities and Social Sciences Communications*, *PLOS ONE*, *Journal of the Knowledge Economy*, and *European Research on Management and Business Economics*
