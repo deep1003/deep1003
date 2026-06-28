@@ -32,6 +32,9 @@ The visualization supports reference-space exploration, Korea activation, and re
 
 ## Recent Research Highlight
 
+- **Silent failure of moral alignment in large language model evaluators**  
+  Under review at *Scientific Reports*, June 2026.
+
 - **[Moral Orientation and Calibration: ICML 2026 Pluralistic Alignment Workshop](https://github.com/deep1003/moral-orientation-calibration/blob/main/paper/main.pdf)**  
   Camera-ready workshop paper on Judge LLM evaluation, pluralistic moral alignment, and diagnostic decomposition of human-LLM disagreement into moral orientation and moral calibration.  
   Reproducibility release: [deep1003/moral-orientation-calibration](https://github.com/deep1003/moral-orientation-calibration)  
