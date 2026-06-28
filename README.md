@@ -6,6 +6,15 @@ I am currently a Responsible AI Researcher at the Responsible AI Center, AI Futu
 
 ## Featured Project
 
+### Physical AI Risk Taxonomy
+
+Interactive L4 risk-card taxonomy for Physical AI systems, including embodied AI, humanoids, robots, drones, autonomous vehicles, and cyber-physical systems. The project defines **Physical AI Risk Taxonomy** as a structured evidence map of risks that arise when AI systems perceive, decide, and act in the physical world.
+
+The release includes 182 L4 risk cards, bilingual definitions, short Korean evidence justifications, reference links, curation data, audit logs, and methodology files.
+
+- Live site: [Physical AI Risk Taxonomy](https://deep1003.github.io/Physical-AI-Risk-Taxonomy/)
+- Repository: [deep1003/Physical-AI-Risk-Taxonomy](https://github.com/deep1003/Physical-AI-Risk-Taxonomy)
+
 ### AI Topic Space: Policy, Science, and Technology in the Korean AI Knowledge Ecosystem
 
 Interactive semantic map of AI topics across policy reports, academic papers, and patents. The project builds a four-level topic hierarchy:
