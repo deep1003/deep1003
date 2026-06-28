@@ -83,6 +83,9 @@ The visualization supports reference-space exploration, Korea activation, and re
 - Chun, Y., Park, Y., Yoon, J., & Lee, S. (2025). **Method, Server and Computer Program for Dynamically Adjusting Value Information**.  
   A value-alignment method for generative AI systems that combines multi-agent debate and reinforcement-learning-based reward modeling.
 
+- Chun, Y. (planned July 2026). **KidnapRAG: A Black-Box Attack for Hijacking Reasoning in Agentic Retrieval-Augmented Generation Systems**.  
+  Planned patent application on black-box poisoning attacks against agentic retrieval-augmented generation systems.
+
 ## Teaching
 
 I teach business analytics and applied AI methods for graduate students, covering:
